@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/minicatsCB/omdb-cloud-functions#readme",
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.17.3",
     "firebase-admin": "8.2.0",
     "firebase-functions": "3.0.2",
     "firebase-tools": "7.0.2"
